@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA Enterprise Design System",
+  "description": "Unified Enterprise Design System, Enterprise Implementation Framework (EIF 20-Step Pipeline), Enterprise Architecture Program (NEAP Phase 2 - ECM, ERA, EDS), Enterprise Domain Model (EDM), and Workbench for all NEXORA products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
